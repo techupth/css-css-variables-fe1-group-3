@@ -36,7 +36,7 @@
   padding: var(--padding-level5);
 }
 
-h1 {
+.introduction h1 {
   color: var(--branding-color);
   font-size: var(--fontsize-triple-extra-large);
 }
